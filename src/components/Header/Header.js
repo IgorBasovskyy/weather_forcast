@@ -5,7 +5,7 @@ import './Header.css';
 const Header = () => {
   return (
     <header>
-      <h1>Weather Forcast</h1>
+      <h1>Weather Forecast</h1>
     </header>
   )
 }
